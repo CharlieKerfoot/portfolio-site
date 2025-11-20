@@ -10,7 +10,7 @@
 	<p>
 		Currently, my new portfolio site is under construction. In the meantime, here is my <a
 			target="_blank"
-			href="https://drive.google.com/file/d/1GdAZf3h2w-vWGj55r0wWwArTD-C2SzVp/view?usp=sharing"
+			href="https://drive.google.com/file/d/1m3CGEv5d5jszNlEW3egCz0OiHodfZ9Vw/view?usp=sharing"
 			>CV</a
 		>
 		and please feel free to
